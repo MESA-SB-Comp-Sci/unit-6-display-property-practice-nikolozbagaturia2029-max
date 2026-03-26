@@ -48,7 +48,24 @@ div {
     display: inline;
 }
 
+.b {
+    /* display:block; */
+}
 
+.i {
+    /* display: inline; */
+    width: 67px;
+    height: 67px;
 
+}
 
+img {
+    display:inline-block
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+    background-color: blue;
+    margin: 20px;
+    border: 5px dotted orange;
+}
 
